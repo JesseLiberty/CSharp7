@@ -1,0 +1,8 @@
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\returnByRef\returnByRef\bin\Debug\returnByRef.exe.config
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\returnByRef\returnByRef\bin\Debug\returnByRef.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\returnByRef\returnByRef\bin\Debug\returnByRef.pdb
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\returnByRef\returnByRef\obj\Debug\returnByRef.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\returnByRef\returnByRef\obj\Debug\returnByRef.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\returnByRef\returnByRef\obj\Debug\returnByRef.pdb
+\\.psf\Dropbox\Presentations\Whats New in C# 7\Code\returnByRef\returnByRef\obj\Debug\returnByRef.exe
+\\.psf\Dropbox\Presentations\Whats New in C# 7\Code\returnByRef\returnByRef\obj\Debug\returnByRef.pdb

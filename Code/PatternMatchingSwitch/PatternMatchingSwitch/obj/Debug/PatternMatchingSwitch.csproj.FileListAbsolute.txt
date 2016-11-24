@@ -1,0 +1,12 @@
+\\Mac\Dropbox\Presentations\Whats New in C# 7\PatternMatchingSwitch\PatternMatchingSwitch\bin\Debug\PatternMatchingSwitch.exe.config
+\\Mac\Dropbox\Presentations\Whats New in C# 7\PatternMatchingSwitch\PatternMatchingSwitch\bin\Debug\PatternMatchingSwitch.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\PatternMatchingSwitch\PatternMatchingSwitch\bin\Debug\PatternMatchingSwitch.pdb
+\\Mac\Dropbox\Presentations\Whats New in C# 7\PatternMatchingSwitch\PatternMatchingSwitch\obj\Debug\PatternMatchingSwitch.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Presentations\Whats New in C# 7\PatternMatchingSwitch\PatternMatchingSwitch\obj\Debug\PatternMatchingSwitch.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\PatternMatchingSwitch\PatternMatchingSwitch\obj\Debug\PatternMatchingSwitch.pdb
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\PatternMatchingSwitch\PatternMatchingSwitch\bin\Debug\PatternMatchingSwitch.exe.config
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\PatternMatchingSwitch\PatternMatchingSwitch\bin\Debug\PatternMatchingSwitch.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\PatternMatchingSwitch\PatternMatchingSwitch\bin\Debug\PatternMatchingSwitch.pdb
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\PatternMatchingSwitch\PatternMatchingSwitch\obj\Debug\PatternMatchingSwitch.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\PatternMatchingSwitch\PatternMatchingSwitch\obj\Debug\PatternMatchingSwitch.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\PatternMatchingSwitch\PatternMatchingSwitch\obj\Debug\PatternMatchingSwitch.pdb

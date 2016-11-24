@@ -1,0 +1,7 @@
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\LocalFunctions\LocalFunctions\bin\Debug\LocalFunctions.exe.config
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\LocalFunctions\LocalFunctions\bin\Debug\LocalFunctions.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\LocalFunctions\LocalFunctions\bin\Debug\LocalFunctions.pdb
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\LocalFunctions\LocalFunctions\bin\Debug\System.ValueTuple.dll
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\LocalFunctions\LocalFunctions\obj\Debug\LocalFunctions.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\LocalFunctions\LocalFunctions\obj\Debug\LocalFunctions.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\LocalFunctions\LocalFunctions\obj\Debug\LocalFunctions.pdb

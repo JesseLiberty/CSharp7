@@ -1,0 +1,7 @@
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Deconstruction\Deconstruction\bin\Debug\Deconstruction.exe.config
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Deconstruction\Deconstruction\bin\Debug\Deconstruction.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Deconstruction\Deconstruction\bin\Debug\Deconstruction.pdb
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Deconstruction\Deconstruction\bin\Debug\System.ValueTuple.dll
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Deconstruction\Deconstruction\obj\Debug\Deconstruction.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Deconstruction\Deconstruction\obj\Debug\Deconstruction.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Deconstruction\Deconstruction\obj\Debug\Deconstruction.pdb

@@ -1,0 +1,16 @@
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Tuples\Tuples\bin\Debug\Tuples.exe.config
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Tuples\Tuples\bin\Debug\Tuples.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Tuples\Tuples\bin\Debug\Tuples.pdb
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Tuples\Tuples\bin\Debug\System.ValueTuple.dll
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Tuples\Tuples\obj\Debug\Tuples.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Tuples\Tuples\obj\Debug\Tuples.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Tuples\Tuples\obj\Debug\Tuples.pdb
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Tuples\Tuples\bin\Debug\Tuples.exe.config
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Tuples\Tuples\bin\Debug\Tuples.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Tuples\Tuples\bin\Debug\Tuples.pdb
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Tuples\Tuples\bin\Debug\System.ValueTuple.dll
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Tuples\Tuples\obj\Debug\Tuples.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Tuples\Tuples\obj\Debug\Tuples.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Tuples\Tuples\obj\Debug\Tuples.pdb
+\\.psf\Dropbox\Presentations\Whats New in C# 7\Code\Tuples\Tuples\obj\Debug\Tuples.exe
+\\.psf\Dropbox\Presentations\Whats New in C# 7\Code\Tuples\Tuples\obj\Debug\Tuples.pdb

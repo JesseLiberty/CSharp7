@@ -1,0 +1,1 @@
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\Practice\StaticDirectives\StaticDirectives\obj\Debug\StaticDirectives.csprojResolveAssemblyReference.cache

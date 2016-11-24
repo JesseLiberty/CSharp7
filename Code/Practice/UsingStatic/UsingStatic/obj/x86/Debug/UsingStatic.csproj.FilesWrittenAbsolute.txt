@@ -1,0 +1,5 @@
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 7/Code/Practice/UsingStatic/UsingStatic/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 7/Code/Practice/UsingStatic/UsingStatic/bin/Debug/UsingStatic.exe.mdb
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 7/Code/Practice/UsingStatic/UsingStatic/bin/Debug/UsingStatic.exe
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 7/Code/Practice/UsingStatic/UsingStatic/obj/x86/Debug/UsingStatic.exe
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 7/Code/Practice/UsingStatic/UsingStatic/obj/x86/Debug/UsingStatic.exe.mdb

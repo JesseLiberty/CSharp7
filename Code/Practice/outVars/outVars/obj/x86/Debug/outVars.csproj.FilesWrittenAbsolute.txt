@@ -1,0 +1,1 @@
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 7/Code/Practice/outVars/outVars/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs

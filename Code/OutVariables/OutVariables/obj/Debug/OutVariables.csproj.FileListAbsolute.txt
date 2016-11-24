@@ -1,0 +1,5 @@
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\OutVariables\OutVariables\bin\Debug\OutVariables.exe.config
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\OutVariables\OutVariables\bin\Debug\OutVariables.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\OutVariables\OutVariables\bin\Debug\OutVariables.pdb
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\OutVariables\OutVariables\obj\Debug\OutVariables.exe
+\\Mac\Dropbox\Presentations\Whats New in C# 7\Code\OutVariables\OutVariables\obj\Debug\OutVariables.pdb
